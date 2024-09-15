@@ -1,0 +1,36 @@
+
+Cosine similarities for query 'smart home devices disconnecting network troubleshooting':
+Document 1: 0.0000
+Document 3: 0.0000
+Document 5: 0.0000
+Document 8: 0.0000
+Document 9: 0.0000
+Document 10: 0.0000
+Document 4: 0.0547
+Document 6: 0.0547
+Document 2: 0.0971
+Document 7: 0.3232
+
+Cosine similarities for query 'MacBook performance slow overheating after software update':
+Document 2: 0.0000
+Document 4: 0.0000
+Document 5: 0.0000
+Document 6: 0.0000
+Document 7: 0.0000
+Document 9: 0.0000
+Document 1: 0.0360
+Document 10: 0.0401
+Document 8: 0.0448
+Document 3: 0.3789
+
+Cosine similarities for query 'smart TV Wi-Fi disconnecting streaming issue recent update':
+Document 5: 0.0000
+Document 9: 0.0012
+Document 1: 0.0012
+Document 4: 0.0313
+Document 6: 0.0313
+Document 10: 0.0387
+Document 8: 0.0447
+Document 3: 0.0656
+Document 7: 0.1048
+Document 2: 0.2836
